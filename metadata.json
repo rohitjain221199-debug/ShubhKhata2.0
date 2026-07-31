@@ -1,0 +1,6 @@
+{
+  "name": "ShubhKhata",
+  "description": "GST Billing, Inventory & Khata Book for Indian Shopkeepers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
